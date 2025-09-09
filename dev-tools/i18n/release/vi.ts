@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="vi" sourcelanguage="zh_CN">
+<TS version="2.1" language="vi" sourcelanguage="SYS_CONTEXT">
 <context>
     <name>About</name>
     <message>
-        <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="44"/>
+        <location filename="" line=""/>
         <source>开源、免费的离线OCR软件</source>
         <translation>Phần mềm OCR ngoại tuyến miễn phí, mã nguồn mở</translation>
     </message>
@@ -2478,7 +2478,7 @@ Bạn có muốn kết thúc tác vụ và đóng trang không?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="89"/>
         <source>通知类型已更改</source>
-        <translation type="unfinished"></translation>
+        <translation type="PK"></translation>
     </message>
 </context>
 </TS>
